@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+/* Define the initial icon style */
+.icon {
+  transition: transform 0.5s ease;
+  cursor: pointer;
+  /* transform: rotate(90deg); */
+}
